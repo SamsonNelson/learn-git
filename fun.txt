@@ -1,2 +1,4 @@
 “Hello world!” - said everyone, always
 asdfasdfasdf
+
+Mini Project 2 changes
